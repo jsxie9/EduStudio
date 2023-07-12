@@ -8,7 +8,7 @@ import os
 
 ID = idUtil.get_random_id_bytime() # RUN ID
 
-WORK_DIR = os.getcwd()66
+WORK_DIR = os.getcwd()
 
 DATA_FOLDER_PATH = f"{WORK_DIR}/data"
 TEMP_FOLDER_PATH = f"{WORK_DIR}/temp"
